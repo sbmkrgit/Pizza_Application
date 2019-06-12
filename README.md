@@ -1,1 +1,10 @@
 # Pizza_Application
+GET http://localhost:8080/login
+POST http://localhost:8080/login
+GET http://localhost:8080/product/list
+GET http://localhost:8080/product/detail/id
+POST http://localhost:8080/cart/add/product
+GET http://localhost:8080/cart/products/count
+GET http://localhost:8080/checkout
+GET http://localhost:8080/order/history
+=> Thymeleaf
